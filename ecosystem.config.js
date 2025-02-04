@@ -1,36 +1,12 @@
 module.exports = {
   apps: [
     {
-      name: 'Bot1',
+      name: 'DİSCORD.GG/DİSCORDTR',
       script: 'bot.js',
       env: {
-        TOKEN: 'bot1token',
-        CHANNEL_ID: 'seslikanalid'
-      }
-    },
-    {
-      name: 'Bot2',
-      script: 'bot.js',
-      env: {
-        TOKEN: 'token',
-        CHANNEL_ID: 'seslikanalid'
-      }
-    },
-    {
-      name: 'Bot3',
-      script: 'bot.js',
-      env: {
-        TOKEN: 'token',
-        CHANNEL_ID: 'seslikanalid'
-      }
-    },
-    {
-      name: 'Bot4',
-      script: 'bot.js',
-      env: {
-        TOKEN: 'token',
-        CHANNEL_ID: 'seslikanalid'
-      },
+        TOKEN: 'MTMzNjQyNzIzODkwMzUxNzI5NQ.GIhkNt.FHyzN_ZoM8aHIhyVSX-j94Tv7Ph0i4iyGz6XG4',
+        CHANNEL_ID: '1335377078606106754'
+       },
 /*    {
       name: 'Bot5',
       script: 'bot.js',
